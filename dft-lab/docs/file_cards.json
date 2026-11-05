@@ -1399,7 +1399,7 @@
     "alternate": "把内容复制到各处会造成修改后版本不一致；这里在构建时从当前工程统一读取。",
     "failure": "若脱离来源手改，页面、网表和真实运行记录会不一致，必须重建并核对。",
     "path": "web/assets/advanced.css",
-    "lines": 11,
+    "lines": 36,
     "version": "v3 · 全流程"
   },
   "web/assets/advanced.js": {
@@ -1483,7 +1483,7 @@
     "alternate": "把内容复制到各处会造成修改后版本不一致；这里在构建时从当前工程统一读取。",
     "failure": "若脱离来源手改，页面、网表和真实运行记录会不一致，必须重建并核对。",
     "path": "web/assets/course.css",
-    "lines": 1,
+    "lines": 3,
     "version": "v3 · 全流程"
   },
   "web/assets/course.template.html": {
