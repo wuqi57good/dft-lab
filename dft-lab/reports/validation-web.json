@@ -1,0 +1,36 @@
+{
+  "schema": "dft-lab.validation.web.v1",
+  "status": "PASS",
+  "checks": {
+    "source_files": 78,
+    "source_identity": "PASS: all embedded sources, engineering cards and line counts match",
+    "evidence_identity": "PASS: all reports and verified source hashes match",
+    "chapters_and_anchors": "PASS",
+    "original_five_labs": "PASS",
+    "real_scan_and_lockup": "PASS: five chains and actual 669 ns divergence",
+    "real_atpg_and_coverage": "PASS: 19 replay rows, untestable boundary, backtracking and fixed denominator",
+    "timing_and_reordering": "PASS",
+    "code_browser": "PASS: source stages, line explanations, expansion and exact download",
+    "progress": "PASS: seven-week progress and persistence",
+    "mobile_and_keyboard": "PASS: 390px viewport, menu, scrolling and keyboard selection",
+    "javascript_errors": [],
+    "external_network_requests": []
+  },
+  "source_sha256": {
+    "web/build.py": "a27376e254d2ecfb56a26587ef9cf0a3b69660db2e5e6c64cea4ce18c9f90546",
+    "web/assets/advanced.css": "79299cceee307ef8473293111e080b05d469ba10453d6bb849e2445a23b31fb0",
+    "web/assets/advanced.js": "284db5a3ea2c77c8fe7787742581d7db3874927634674218e9486d394be1e6dc",
+    "web/assets/course-extra.js": "cd6d76c0a6feb54bbe18877cba59d8c1122afe53853638be79b1f4a134bedc0d",
+    "web/assets/course-main.js": "7cbaa58e6802e59061c27a9e38ae2a45062fea6695c89f234ffc8eedf76f689f",
+    "web/assets/course.css": "351f23b84f0fc6ca5024e0f69b243e7256d7dcda5846e03010f883b6121bec03",
+    "web/assets/course.template.html": "e5cba4061dddb8ebf2421b2f2686567d873df9cf829c3f33a059544d991147fe",
+    "web/assets/learning.css": "621707a57912809f0b7a489a80a9c32a86d83b5dafe1a5330e8955055b85a6e1",
+    "web/assets/learning.js": "8c5be220743a948fc75a19d6924a9915439ae649627011a726ffec654fb15657",
+    "web/assets/polish.css": "746bc6439e32314283fac6732367b40f3fcbb6a9cdd5542ad5d4d0f3afe65ebb",
+    "web/assets/week2.css": "6cde3ba37efbdcb4f143d22ad3cfb0f9e98270fc29b254d9e88908aebfa3ca40",
+    "web/assets/week2.html": "c9b68e692acc0e46a49d9de2edfba7d520c3e04b53935890f0fa2ac6cc15b718",
+    "web/assets/week2.js": "43f47d3f22da2533947036f2ac31cca1804fd5e9e41f3d199a3bc02318a25ac0",
+    "web/assets/weeks3-7.css": "4685c13fb74e4d48e52ce95fd96c9107291e1f0541e5775ba080b670dd60e92f",
+    "web/assets/weeks3-7.html": "818b7fd5ca6f7dbd450a7e35e538b9b675b0686e57e2a6c01d4a178416887ff8"
+  }
+}
